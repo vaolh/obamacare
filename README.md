@@ -1,7 +1,7 @@
 
 This repository contains the Stata code to replicate the results from "[Insurance and Welfare:
 Causal Effects of the Affordable Care Act](https://vaolh.github.io/obamacare.pdf)" by Victor Ortega (me) and Thalia Pivert.
-This is not a complete replication package, as it only includes the code. You can download the full replication package with all data from [Dropbox](https://www.dropbox.com/scl/fo/u4p9xcnw309pcdzqwwmxw/APrMqXIz3PP4Xun1sPndq8o?rlkey=rfmt8xegu7r5y7292yovindz2&st=zi07nb8m&dl=0)..
+This is not a complete replication package, as it only includes the code. You can download the full replication package with all data from [Dropbox](https://www.dropbox.com/scl/fo/u4p9xcnw309pcdzqwwmxw/APrMqXIz3PP4Xun1sPndq8o?rlkey=rfmt8xegu7r5y7292yovindz2&st=zi07nb8m&dl=0).
 
 
 ## Code
